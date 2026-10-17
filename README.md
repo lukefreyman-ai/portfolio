@@ -1,3 +1,4 @@
-# portfolio
+# Portfolio index
 
-Index and resume material for the seven projects: see [PORTFOLIO.md](PORTFOLIO.md) and [RESUME_BULLETS.md](RESUME_BULLETS.md).
+One-page index of my risk and fraud analytics projects, with the headline result from each
+and a link to the repo. See `PORTFOLIO.md`.
